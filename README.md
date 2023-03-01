@@ -1,7 +1,6 @@
 # Calculator-Project
 The Odin Project
 
-27.3.23 Progress Update
--Added HTML+CSS to create calculator layout
+1.3.23 Progress Update (previous readme.md date inputted was incorrect)
 
--Reworked JS code to be more in line with The Odin Project's instructions 
+-Basic functionalities of a calculator work now but a few bugs have yet to be fixed and additional features for useability could be implemented
